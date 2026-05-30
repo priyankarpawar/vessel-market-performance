@@ -4,7 +4,7 @@ A full-stack web application for tracking vessel hire rates vs. market rates by 
 
 ---
 
-## 🧒 Explain Like I'm 5 (ELI5)
+## 📖 Project Overview (ELI5)
 
 Imagine you have a bunch of big ships sailing around the world. Every ship costs money to hire for the day, like renting a toy. Now, there's also a "fair price" that everyone in the market agrees on — that's the market rate.
 
