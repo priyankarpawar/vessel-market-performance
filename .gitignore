@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+.env
+*.sqlite3
+
+# Node
+node_modules/
+build/
+.env.local
+.env.production
+
+# Docker
+.DS_Store
+
+# DB
+*.dump
